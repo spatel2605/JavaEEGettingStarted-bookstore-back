@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.pluralsight.bookstore.rest.BookEndpointTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.877 sec <<< FAILURE! - in com.pluralsight.bookstore.rest.BookEndpointTest
+createBook(com.pluralsight.bookstore.rest.BookEndpointTest)  Time elapsed: 0.146 sec  <<< ERROR!
+java.lang.IllegalStateException: No baseURL found in HTTPContext
+
